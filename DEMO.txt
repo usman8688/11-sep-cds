@@ -2,3 +2,6 @@ first line of code
 writing secound line of code
 3 code
 4 code
+adding more code for different fuction
+this is 3rd change
+
